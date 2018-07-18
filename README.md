@@ -18,7 +18,8 @@ See official list of reference libraries
 * C#
   * [Client](https://www.hl7.org/fhir/downloads.html)
 * JavaScript
-  * [Client](https://github.com/FHIR/fhir.js)
+  * [Client fhir.js](https://github.com/FHIR/fhir.js)
+  * [Client FHIRKit](https://www.npmjs.com/package/fhir-kit-client)
 * XML
   * [Tools](https://www.hl7.org/fhir/fhir-3.0.1-XMLTools-0.01.zip)
 * Pascal
