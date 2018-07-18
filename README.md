@@ -2,7 +2,7 @@
 
 Community curated list of FHIR related artifacts.
 
-You are welcome to pull request your FHIR work!
+You are welcome to send in a pull request with FHIR work!
 
 
 ## Menu
@@ -80,10 +80,10 @@ The following systems provide support for automated testing of FHIR clients and/
 * [http://touchstone.com/ Touchstone] testing FHIR Client or Servers using Test-Driven-Development (TDD)
 
 
-### Data Set's
+### Data Sets
 
 * [synthea](https://github.com/synthetichealth/synthea) - Synthetic Patient Population Simulator
-* [FHIR Examples](https://www.hl7.org/fhir/downloads.html) - Examples coming with FHIR distro
+* [FHIR Examples](https://www.hl7.org/fhir/downloads.html) - Examples coming with FHIR distribution
 
 ### Profiling
 
