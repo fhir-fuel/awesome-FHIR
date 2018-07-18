@@ -14,9 +14,9 @@ See official list of reference libraries
 [here (fhir wiki)](http://wiki.hl7.org/index.php?title=Open_Source_FHIR_implementations)
 
 * JAVA
-  * [Official/HAPI](http://jamesagnew.github.io/hapi-fhir/)
+  * [Client/Server](http://jamesagnew.github.io/hapi-fhir/)
 * C#
-  * [Official](https://www.hl7.org/fhir/downloads.html)
+  * [Client](https://www.hl7.org/fhir/downloads.html)
 * JavaScript
   * [Client](https://github.com/FHIR/fhir.js)
 * XML
