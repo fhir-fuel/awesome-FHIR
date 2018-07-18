@@ -13,7 +13,7 @@ See official list of reference libraries
 [here (fhir.org)](https://www.hl7.org/fhir/downloads.html) or
 [here (fhir wiki)](http://wiki.hl7.org/index.php?title=Open_Source_FHIR_implementations)
 
-* JAVA
+* Java
   * [Client/Server](http://jamesagnew.github.io/hapi-fhir/)
 * C#
   * [Client](https://www.hl7.org/fhir/downloads.html)
@@ -29,7 +29,7 @@ See official list of reference libraries
 * Ruby
   * [Client](https://github.com/fhir-crucible/fhir_client)
 * Python
-  * [SMART on FHIR Client](https://github.com/smart-on-fhir/client-py)
+  * [Client SMART on FHIR](https://github.com/smart-on-fhir/client-py)
 * SQL
   * [PostgreSQL/fhirbase](https://github.com/fhirbase/fhirbase-plv8)
 * Go - ?
