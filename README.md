@@ -97,10 +97,21 @@ The following systems provide support for automated testing of FHIR clients and/
 
 ### Bulk Data
 
+## Mapping
+
 ### HL7v2 to FHIR
 
 ### CDA(CCD) to FHIR
 
+### Mapping
+
+* [JUTE](https://github.com/HealthSamurai/jute.js) - mapping language in js with examples for HL7v2->FHIR transformations
+
 ### FHIRpath
+
+* [fhirpath.js](https://github.com/hl7/fhirpath.js/) - implementation of FHIRPath in javascript
+* [fhirpath.clj](https://github.com/HealthSamurai/fhirpath.clj) - FHIRPath in clojure
+
+
 
 ### CQL
