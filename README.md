@@ -40,6 +40,8 @@ See official list of reference libraries
 * Haskel - ? 
 * Scala - ? 
 * Kotlin - ? 
+* Lua
+  * [XML <-> JSON converter](https://github.com/vadi2/fhir-formats)
 
 
 ### SMART on FHIR
