@@ -17,6 +17,7 @@ See official list of reference libraries
   * [Client/Server](http://jamesagnew.github.io/hapi-fhir/)
 * C#
   * [Client](https://github.com/FirelyTeam/fhir-net-api)
+  * [UCUM metrics conversion](https://github.com/FirelyTeam/Fhir.Metrics)
 * JavaScript
   * [Client fhir.js](https://github.com/FHIR/fhir.js)
   * [Client FHIRKit](https://www.npmjs.com/package/fhir-kit-client)
@@ -40,6 +41,8 @@ See official list of reference libraries
 * Haskel - ? 
 * Scala - ? 
 * Kotlin - ? 
+* Lua
+  * [XML ⟷ JSON converter](https://github.com/vadi2/fhir-formats)
 
 
 ### SMART on FHIR
