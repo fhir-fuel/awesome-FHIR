@@ -18,6 +18,7 @@ See official list of reference libraries
 * C#
   * [Client](https://github.com/FirelyTeam/fhir-net-api)
   * [UCUM metrics conversion](https://github.com/FirelyTeam/Fhir.Metrics)
+  * [Server](https://github.com/FirelyTeam/spark)
 * JavaScript
   * [Client fhir.js](https://github.com/FHIR/fhir.js)
   * [Client FHIRKit](https://www.npmjs.com/package/fhir-kit-client)
