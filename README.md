@@ -109,7 +109,7 @@ The following systems provide support for automated testing of FHIR clients and/
 
 ### FHIRpath
 
-* [fhirpath.js](https://github.com/hl7/fhirpath.js/) - implementation of FHIRPath in javascript
+* [fhirpath.js](https://github.com/hl7/fhirpath.js/) - implementation of FHIRPath in javascript - [demo](https://hl7.github.io/fhirpath.js/)
 * [fhirpath.clj](https://github.com/HealthSamurai/fhirpath.clj) - FHIRPath in clojure
 
 
