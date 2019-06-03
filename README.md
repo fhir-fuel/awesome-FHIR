@@ -17,6 +17,7 @@ See official list of reference libraries
   * [Client/Server](http://jamesagnew.github.io/hapi-fhir/)
 * C#
   * [Client](https://www.hl7.org/fhir/downloads.html)
+  * [UCUM metrics conversion](https://github.com/FirelyTeam/Fhir.Metrics)
 * JavaScript
   * [Client fhir.js](https://github.com/FHIR/fhir.js)
   * [Client FHIRKit](https://www.npmjs.com/package/fhir-kit-client)
