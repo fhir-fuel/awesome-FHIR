@@ -59,6 +59,8 @@ Here is a list of [Publicly  Available FHIR Servers](http://wiki.hl7.org/index.p
 
 ### Terminology servers
 
+* [Ontoserver](https://ontoserver.csiro.au)
+
 ### Profiling
 
 
