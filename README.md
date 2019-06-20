@@ -4,10 +4,9 @@ Community curated list of FHIR related artifacts.
 
 You are welcome to send in a pull request with FHIR work!
 
-
 ## Menu
 
-### Libraries 
+### Libraries
 
 See official list of reference libraries
 [here (fhir.org)](https://www.hl7.org/fhir/downloads.html) or
@@ -41,19 +40,17 @@ See official list of reference libraries
 * PHP - ?
 * C/C++ - ?
 * Rust - ?
-* Haskel - ? 
-* Scala - ? 
-* Kotlin - ? 
+* Haskel - ?
+* Scala - ?
+* Kotlin - ?
 * Lua
   * [XML ⟷ JSON converter](https://github.com/vadi2/fhir-formats)
-
 
 ### SMART on FHIR
 
 ### Test Servers
 
 Here is a list of [Publicly  Available FHIR Servers](http://wiki.hl7.org/index.php?title=Publicly_Available_FHIR_Servers_for_testing) for testing
-
 
 ### Open Source Servers
 
@@ -69,7 +66,6 @@ Here is a list of [Publicly  Available FHIR Servers](http://wiki.hl7.org/index.p
 * [Ontoserver](https://ontoserver.csiro.au)
 
 ### Profiling
-
 
 ## Databases
 
@@ -93,7 +89,6 @@ Here is a list of [Publicly  Available FHIR Servers](http://wiki.hl7.org/index.p
 
 [Source](http://wiki.hl7.org/index.php?title=FHIR_Testing_Platforms)
 
-
 The following systems provide support for automated testing of FHIR clients and/or servers, including leveraging the TestScript and TestReport resources:
 
 * [https://projectcrucible.org/ Crucible] open source testing tools for FHIR
@@ -101,13 +96,12 @@ The following systems provide support for automated testing of FHIR clients and/
 * [Wind.Tunnel](https://github.com/FirelyTeam/Wind.Tunnel) - Performance & stress testing for your FHIR server.
 * [fhirtile](https://github.com/HealthSamurai/fhirtile) - simple yaml based tests for FHIR servers
 
-
 ### Data Sets
 
 * [synthea](https://github.com/synthetichealth/synthea) - Synthetic Patient Population Simulator
 * [FHIR Examples](https://www.hl7.org/fhir/downloads.html) - Examples coming with FHIR distribution
 
-### Profiling
+### Profiling for DB
 
 ### JSON Schema
 
@@ -130,6 +124,13 @@ The following systems provide support for automated testing of FHIR clients and/
 * [fhirpath.js](https://github.com/hl7/fhirpath.js/) - implementation of FHIRPath in javascript - [demo](https://hl7.github.io/fhirpath.js/)
 * [fhirpath.clj](https://github.com/HealthSamurai/fhirpath.clj) - FHIRPath in clojure
 
-
-
 ### CQL
+
+## Books
+
+* [Principles of Health Interoperability](https://www.springer.com/gp/book/9783319303680)
+
+## Blogs
+
+* [Health Intersections](http://www.healthintersections.com.au/) - Healthcare Interoperability by Grahame Grieve
+* [Healthcare Exchange Standards](https://healthcaresecprivacy.blogspot.com/)
