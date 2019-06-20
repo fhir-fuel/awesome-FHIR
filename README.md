@@ -32,8 +32,9 @@ See official list of reference libraries
   * [Client](https://github.com/fhir-crucible/fhir_client)
 * Python
   * [Client SMART on FHIR](https://github.com/smart-on-fhir/client-py)
+  * [FHIR-PY](https://github.com/beda-software/fhir-py) - FHIR client for python
 * SQL
-  * [PostgreSQL/fhirbase](https://github.com/fhirbase/fhirbase-plv8)
+  * [PostgreSQL/fhirbase](https://www.health-samurai.io/fhirbase)
 * Go - ?
 * Objective-C - ?
 * PHP - ?
@@ -56,6 +57,8 @@ Here is a list of [Publicly  Available FHIR Servers](http://wiki.hl7.org/index.p
 ### Open Source Servers
 
 ### Proprietary Servers
+
+* [Aidbox](https://www.health-samurai.io/aidbox) - Advanced FHIR backend built on top of fhirbase
 
 ### Terminology servers
 
