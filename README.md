@@ -22,6 +22,7 @@ See official list of reference libraries
 * JavaScript
   * [Client fhir.js](https://github.com/FHIR/fhir.js)
   * [Client FHIRKit](https://www.npmjs.com/package/fhir-kit-client)
+  * [fhirpath.js](https://github.com/hl7/fhirpath.js/)
 * XML
   * [Tools](https://www.hl7.org/fhir/fhir-3.0.1-XMLTools-0.01.zip)
 * Pascal
