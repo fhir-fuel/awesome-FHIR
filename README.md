@@ -98,6 +98,8 @@ The following systems provide support for automated testing of FHIR clients and/
 
 * [https://projectcrucible.org/ Crucible] open source testing tools for FHIR
 * [http://touchstone.com/ Touchstone] testing FHIR Client or Servers using Test-Driven-Development (TDD)
+* [Wind.Tunnel](https://github.com/FirelyTeam/Wind.Tunnel) - Performance & stress testing for your FHIR server.
+* [fhirtile](https://github.com/HealthSamurai/fhirtile) - simple yaml based tests for FHIR servers
 
 
 ### Data Sets
