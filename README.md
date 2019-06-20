@@ -56,6 +56,9 @@ Here is a list of [Publicly  Available FHIR Servers](http://wiki.hl7.org/index.p
 
 ### Open Source Servers
 
+* [HAPI](http://hapifhir.io/) -HAPI FHIR is a simple-but-powerful library for adding FHIR messaging to your application. It is pure Java (1.6+ compatible), and licensed under the business-friendly Apache Software License, version 2.0.
+* [MS FHIR server](https://github.com/microsoft/fhir-server) - FHIR Server for Azure is an open-source implementation of the emerging HL7 Fast Healthcare Interoperability Resources (FHIR) specification designed for the Microsoft cloud.
+
 ### Proprietary Servers
 
 * [Aidbox](https://www.health-samurai.io/aidbox) - Advanced FHIR backend built on top of fhirbase
@@ -71,11 +74,14 @@ Here is a list of [Publicly  Available FHIR Servers](http://wiki.hl7.org/index.p
 
 [SQL on FHIR](https://github.com/FHIR/sql-on-fhir/blob/master/sql-on-fhir.md) draft specification. 
 
+[Zulip Chat](https://chat.fhir.org/#narrow/stream/179219-analytics-on.20FHIR)
+
 * BigQuery - Load FHIR data into [BigQuery](https://github.com/fhir-fuel/fhir-storage-and-analytics-track/tree/master/bigquery)
 * PostgreSQL
   * [Fhirbase](https://www.health-samurai.io/fhirbase) is an open source toolkit for storing and working with FHIR data, built on top of PostgreSQL.
 * MongoDB
 * Spark
+  * [Bunsen](https://github.com/cerner/bunsen) - Bunsen lets users load, transform, and analyze FHIR data with Apache Spark
 * Hadoop
 * MS SQL
 * Oracle
