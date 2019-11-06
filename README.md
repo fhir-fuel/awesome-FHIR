@@ -56,6 +56,7 @@ Here is a list of [Publicly  Available FHIR Servers](http://wiki.hl7.org/index.p
 
 * [HAPI](http://hapifhir.io/) -HAPI FHIR is a simple-but-powerful library for adding FHIR messaging to your application. It is pure Java (1.6+ compatible), and licensed under the business-friendly Apache Software License, version 2.0.
 * [MS FHIR server](https://github.com/microsoft/fhir-server) - FHIR Server for Azure is an open-source implementation of the emerging HL7 Fast Healthcare Interoperability Resources (FHIR) specification designed for the Microsoft cloud.
+* [Spark](https://github.com/firelyTeam/spark) - Spark FHIR Server is an open-source C# implementation (.NET Framework 4.6.1+, .NET Standard 2.0 and .NET Core compatible). Supports DSTU2, STU3 and R4 versions of the specification.
 
 ### Proprietary Servers
 
