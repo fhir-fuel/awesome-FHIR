@@ -21,7 +21,9 @@ See official list of reference libraries
 * JavaScript
   * [Client fhir.js](https://github.com/FHIR/fhir.js)
   * [Client FHIRKit](https://www.npmjs.com/package/fhir-kit-client)
-  * [fhirpath.js](https://github.com/hl7/fhirpath.js/)
+  * [Client SMART on FHIR](https://github.com/smart-on-fhir/client-js)
+  * [FHIRKit create-react-app template](https://github.com/Vermonster/fhir-kit-create-react)
+  * [FHIRPath implementation](https://github.com/hl7/fhirpath.js/)
 * XML
   * [Tools](https://www.hl7.org/fhir/fhir-3.0.1-XMLTools-0.01.zip)
 * Pascal
@@ -52,11 +54,16 @@ See official list of reference libraries
 
 Here is a list of [Publicly  Available FHIR Servers](http://wiki.hl7.org/index.php?title=Publicly_Available_FHIR_Servers_for_testing) for testing
 
+#### Dockerized examples servers
+
+* [SMART on FHIR - HAPI example](https://github.com/smart-on-fhir/hapi)
+
 ### Open Source Servers
 
 * [HAPI](http://hapifhir.io/) -HAPI FHIR is a simple-but-powerful library for adding FHIR messaging to your application. It is pure Java (1.6+ compatible), and licensed under the business-friendly Apache Software License, version 2.0.
 * [MS FHIR server](https://github.com/microsoft/fhir-server) - FHIR Server for Azure is an open-source implementation of the emerging HL7 Fast Healthcare Interoperability Resources (FHIR) specification designed for the Microsoft cloud.
 * [Spark](https://github.com/firelyTeam/spark) - Spark FHIR Server is an open-source C# implementation (.NET Framework 4.6.1+, .NET Standard 2.0 and .NET Core compatible). Supports DSTU2, STU3 and R4 versions of the specification.
+* [Node on FHIR](https://github.com/symptomatic/node-on-fhir) - JavaScript Meteor-based stack, with server and application using many of the other available Javascript libraries
 
 ### Proprietary Servers
 
@@ -100,6 +107,7 @@ The following systems provide support for automated testing of FHIR clients and/
 ### Data Sets
 
 * [synthea](https://github.com/synthetichealth/synthea) - Synthetic Patient Population Simulator
+* [Dockerized synthea](https://github.com/smart-on-fhir/synthea) - Static contenerized version of Synthea
 * [FHIR Examples](https://www.hl7.org/fhir/downloads.html) - Examples coming with FHIR distribution
 
 ### Profiling for DB
