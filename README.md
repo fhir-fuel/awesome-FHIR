@@ -102,7 +102,7 @@ The following systems provide support for automated testing of FHIR clients and/
 * [https://projectcrucible.org/ Crucible] open source testing tools for FHIR
 * [http://touchstone.com/ Touchstone] testing FHIR Client or Servers using Test-Driven-Development (TDD)
 * [Wind.Tunnel](https://github.com/FirelyTeam/Wind.Tunnel) - Performance & stress testing for your FHIR server.
-* [fhirtile](https://github.com/HealthSamurai/fhirtile) - simple yaml based tests for FHIR servers
+* [stresty](https://github.com/Aidbox/stresty) - simple yaml based tests for REST (FHIR) servers
 
 ### Data Sets
 
@@ -118,7 +118,6 @@ The following systems provide support for automated testing of FHIR clients and/
 
 ### Bulk Data
 
-## Mapping
 
 ### HL7v2 to FHIR
 
@@ -143,3 +142,5 @@ The following systems provide support for automated testing of FHIR clients and/
 
 * [Health Intersections](http://www.healthintersections.com.au/) - Healthcare Interoperability by Grahame Grieve
 * [Healthcare Exchange Standards](https://healthcaresecprivacy.blogspot.com/)
+* [fhirblog](https://fhirblog.com/) - by David Hay
+* [niquola](https://medium.com/@niquola) - by Nikolai Ryzhikov
