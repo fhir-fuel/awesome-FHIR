@@ -18,6 +18,7 @@ See official list of reference libraries
   * [Client](https://github.com/FirelyTeam/fhir-net-api)
   * [UCUM metrics conversion](https://github.com/FirelyTeam/Fhir.Metrics)
   * [Server](https://github.com/FirelyTeam/spark)
+  * [Generator](https://github.com/Aidbox/fhirsharp) - Early steps
 * JavaScript
   * [Client fhir.js](https://github.com/FHIR/fhir.js)
   * [Client FHIRKit](https://www.npmjs.com/package/fhir-kit-client)
@@ -64,6 +65,7 @@ Here is a list of [Publicly  Available FHIR Servers](http://wiki.hl7.org/index.p
 * [MS FHIR server](https://github.com/microsoft/fhir-server) - FHIR Server for Azure is an open-source implementation of the emerging HL7 Fast Healthcare Interoperability Resources (FHIR) specification designed for the Microsoft cloud.
 * [Spark](https://github.com/firelyTeam/spark) - Spark FHIR Server is an open-source C# implementation (.NET Framework 4.6.1+, .NET Standard 2.0 and .NET Core compatible). Supports DSTU2, STU3 and R4 versions of the specification.
 * [Node on FHIR](https://github.com/symptomatic/node-on-fhir) - JavaScript Meteor-based stack, with server and application using many of the other available Javascript libraries
+* [IBM FHIR server](https://github.com/IBM/FHIR) - The IBM FHIR Server is a modular Java implementation of version 4
 
 ### Proprietary Servers
 
