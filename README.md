@@ -75,7 +75,7 @@ Here is a list of [Publicly  Available FHIR Servers](http://wiki.hl7.org/index.p
 
 ### Profiling
 
-* [fhir shorthands] - FHIR Shorthand (FSH) is a specially-designed language for defining the content of FHIR Implementation Guides
+* [fhir shorthands](https://github.com/HL7/fhir-shorthand) - FHIR Shorthand (FSH) is a specially-designed language for defining the content of FHIR Implementation Guides
 * [igpop](https://github.com/HealthSamurai/igpop) YAML (data) DSL for FHIR profiles
 
 ## Databases
