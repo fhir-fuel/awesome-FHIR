@@ -38,7 +38,8 @@ See official list of reference libraries
   * [FHIR-PY](https://github.com/beda-software/fhir-py) - FHIR client for python
 * SQL
   * [PostgreSQL/fhirbase](https://www.health-samurai.io/fhirbase)
-* Go - ?
+* Go
+  * [Model](https://github.com/samply/golang-fhir-models)
 * Objective-C - ?
 * PHP - ?
 * C/C++ - ?
@@ -66,6 +67,7 @@ Here is a list of [Publicly  Available FHIR Servers](http://wiki.hl7.org/index.p
 * [Spark](https://github.com/firelyTeam/spark) - Spark FHIR Server is an open-source C# implementation (.NET Framework 4.6.1+, .NET Standard 2.0 and .NET Core compatible). Supports DSTU2, STU3 and R4 versions of the specification.
 * [Node on FHIR](https://github.com/symptomatic/node-on-fhir) - JavaScript Meteor-based stack, with server and application using many of the other available Javascript libraries
 * [IBM FHIR server](https://github.com/IBM/FHIR) - The IBM FHIR Server is a modular Java implementation of version 4
+* [Blaze Server](https://github.com/samply/blaze) - A FHIR® Server with internal, fast CQL Evaluation Engine
 
 ### Proprietary Servers
 
@@ -138,6 +140,13 @@ The following systems provide support for automated testing of FHIR clients and/
 * [fhirpath.clj](https://github.com/HealthSamurai/fhirpath.clj) - FHIRPath in clojure
 
 ### CQL
+
+* [Blaze Server](https://github.com/samply/blaze) - A FHIR® Server with internal, fast CQL Evaluation Engine
+
+### Commandline Clients
+
+* [Blazectl](https://github.com/samply/blazectl) - Control your FHIR® Server from the Command Line
+* [Firely Terminal](https://fire.ly/products/firely-terminal/) - The Swiss army knife CLI tool for your FHIR needs
 
 ## Books
 
