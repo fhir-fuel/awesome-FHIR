@@ -13,7 +13,7 @@ See official list of reference libraries
 [here (fhir wiki)](http://wiki.hl7.org/index.php?title=Open_Source_FHIR_implementations)
 
 * Java
-  * [Client/Server](http://jamesagnew.github.io/hapi-fhir/)
+  * [Client/Server](https://github.com/hapifhir/hapi-fhir)
 * C#
   * [Client](https://github.com/FirelyTeam/fhir-net-api)
   * [UCUM metrics conversion](https://github.com/FirelyTeam/Fhir.Metrics)
