@@ -45,7 +45,8 @@ See official list of reference libraries
 * Rust - ?
 * Haskel - ?
 * Scala - ?
-* Kotlin - ?
+* Kotlin
+  * [Android FHIR SDK](https://github.com/google/android-fhir) - a set of Kotlin libraries for building offline-capable, mobile-first healthcare applications using FHIR on Android.
 * Lua
   * [XML ⟷ JSON converter](https://github.com/vadi2/fhir-formats)
 
@@ -82,7 +83,7 @@ Here is a list of [Publicly  Available FHIR Servers](http://wiki.hl7.org/index.p
 
 ## Databases
 
-[SQL on FHIR](https://github.com/FHIR/sql-on-fhir/blob/master/sql-on-fhir.md) draft specification. 
+[SQL on FHIR](https://github.com/FHIR/sql-on-fhir/blob/master/sql-on-fhir.md) draft specification.
 
 [Zulip Chat](https://chat.fhir.org/#narrow/stream/179219-analytics-on.20FHIR)
 
