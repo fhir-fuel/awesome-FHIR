@@ -42,7 +42,9 @@ See official list of reference libraries
 * Objective-C - ?
 * PHP - ?
 * C/C++ - ?
-* Rust - ?
+* Rust
+  * [Models (JSON) + Client](https://github.com/FlixCoder/fhir-sdk)
+  * [Models (XML + JSON)](https://github.com/lschmierer/fhirbolt)
 * Haskel - ?
 * Scala - ?
 * Kotlin
