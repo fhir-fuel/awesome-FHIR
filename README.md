@@ -84,7 +84,7 @@ Here is a list of [Publicly  Available FHIR Servers](http://wiki.hl7.org/index.p
 
 * [fhir shorthands](https://github.com/HL7/fhir-shorthand) - FHIR Shorthand (FSH) is a specially-designed language for defining the content of FHIR Implementation Guides
 * [igpop](https://github.com/HealthSamurai/igpop) YAML (data) DSL for FHIR profiles
-* [HasteHealth profiling crate](https://github.com/HasteHealth/HasteHealth/tree/main/backend/crates/fhir-profiling) - FHIR Profile validation on rust.
+* [HasteHealth profiling crate](https://github.com/HasteHealth/HasteHealth/tree/main/backend/crates/fhir-profiling) - FHIR Profile validation on Rust.
 
 ## Databases
 
@@ -114,7 +114,7 @@ The following systems provide support for automated testing of FHIR clients and/
 * [http://touchstone.com/ Touchstone] testing FHIR Client or Servers using Test-Driven-Development (TDD)
 * [Wind.Tunnel](https://github.com/FirelyTeam/Wind.Tunnel) - Performance & stress testing for your FHIR server.
 * [stresty](https://github.com/Aidbox/stresty) - simple yaml based tests for REST (FHIR) servers
-* [Rust Testscript Runner](https://github.com/HasteHealth/HasteHealth/tree/main/backend/crates/testscript-runner) - R4 Testscript runner on rust.
+* [Rust Testscript Runner](https://github.com/HasteHealth/HasteHealth/tree/main/backend/crates/testscript-runner) - R4 Testscript runner on Rust.
 
 ### Data Sets
 
