@@ -42,7 +42,8 @@ See official list of reference libraries
 * Objective-C - ?
 * PHP - ?
 * C/C++ - ?
-* Rust - ?
+* Rust
+   * [Client/Server](https://github.com/hastehealth/hastehealth)
 * Haskel - ?
 * Scala - ?
 * Kotlin
@@ -51,6 +52,8 @@ See official list of reference libraries
   * [XML ⟷ JSON converter](https://github.com/vadi2/fhir-formats)
 
 ### SMART on FHIR
+
+[HasteHealth](https://haste.health/) - Haste Health supports SMART ON FHIR and client registration. Can run locally or use the cloud free tier.
 
 ### Test Servers
 
@@ -67,6 +70,7 @@ Here is a list of [Publicly  Available FHIR Servers](http://wiki.hl7.org/index.p
 * [Spark](https://github.com/firelyTeam/spark) - Spark FHIR Server is an open-source C# implementation (.NET Framework 4.6.1+, .NET Standard 2.0 and .NET Core compatible). Supports DSTU2, STU3 and R4 versions of the specification.
 * [Node on FHIR](https://github.com/symptomatic/node-on-fhir) - JavaScript Meteor-based stack, with server and application using many of the other available Javascript libraries
 * [IBM FHIR server](https://github.com/IBM/FHIR) - The IBM FHIR Server is a modular Java implementation of version 4
+* [HasteHealth](https://haste.health) - HasteHealth is a fast and scalable open-source FHIR server built on top of the [Rust](https://rust-lang.org/) programming language. Licensed with the business-friendly Apache Software License, version 2.0.
 
 ### Proprietary Servers
 
@@ -80,6 +84,7 @@ Here is a list of [Publicly  Available FHIR Servers](http://wiki.hl7.org/index.p
 
 * [fhir shorthands](https://github.com/HL7/fhir-shorthand) - FHIR Shorthand (FSH) is a specially-designed language for defining the content of FHIR Implementation Guides
 * [igpop](https://github.com/HealthSamurai/igpop) YAML (data) DSL for FHIR profiles
+* [HasteHealth profiling crate](https://github.com/HasteHealth/HasteHealth/tree/main/backend/crates/fhir-profiling) - FHIR Profile validation on rust.
 
 ## Databases
 
@@ -109,6 +114,7 @@ The following systems provide support for automated testing of FHIR clients and/
 * [http://touchstone.com/ Touchstone] testing FHIR Client or Servers using Test-Driven-Development (TDD)
 * [Wind.Tunnel](https://github.com/FirelyTeam/Wind.Tunnel) - Performance & stress testing for your FHIR server.
 * [stresty](https://github.com/Aidbox/stresty) - simple yaml based tests for REST (FHIR) servers
+* [Rust Testscript Runner](https://github.com/HasteHealth/HasteHealth/tree/main/backend/crates/testscript-runner) - R4 Testscript runner on rust.
 
 ### Data Sets
 
@@ -137,6 +143,7 @@ The following systems provide support for automated testing of FHIR clients and/
 
 * [fhirpath.js](https://github.com/hl7/fhirpath.js/) - implementation of FHIRPath in javascript - [demo](https://hl7.github.io/fhirpath.js/)
 * [fhirpath.clj](https://github.com/HealthSamurai/fhirpath.clj) - FHIRPath in clojure
+* [Rust FHIRPath](https://github.com/HasteHealth/HasteHealth/tree/main/backend/crates/fhirpath) - Implementation of FHIRPath on Rust
 
 ### CQL
 
