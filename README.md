@@ -120,6 +120,8 @@ The following systems provide support for automated testing of FHIR clients and/
 
 ### JSON Schema
 
+* [unmiri-ngs-fhir-schema](https://github.com/unmirihealth/unmiri-ngs-fhir-schema) - Apache-2.0 JSON Schema (Draft 2020-12) API contract for cross-vendor somatic NGS interpretation output (Foundation Medicine, Tempus, Caris, Guardant), shaped to align with the HL7 FHIR Genomics IG. Includes TypeScript/Python types, worked examples, and a validator.
+
 ### CDS Hooks
 
 ### Bulk Data
