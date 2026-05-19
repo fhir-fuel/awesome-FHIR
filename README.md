@@ -36,6 +36,7 @@ See official list of reference libraries
 * Python
   * [Client SMART on FHIR](https://github.com/smart-on-fhir/client-py)
   * [FHIR-PY](https://github.com/beda-software/fhir-py) - FHIR client for python
+  * [fhir-validator-cli](https://github.com/plusultra-tools/fhir-validator-cli) - Profile-aware FHIR R4/R5 validator (Bundle/Resource against StructureDefinition) with deterministic CI exit codes.
 * SQL
   * [PostgreSQL/fhirbase](https://www.health-samurai.io/fhirbase)
 * Go - ?
