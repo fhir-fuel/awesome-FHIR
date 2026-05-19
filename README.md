@@ -36,6 +36,7 @@ See official list of reference libraries
 * Python
   * [Client SMART on FHIR](https://github.com/smart-on-fhir/client-py)
   * [FHIR-PY](https://github.com/beda-software/fhir-py) - FHIR client for python
+  * [fhir-validator-cli](https://github.com/plusultra-tools/fhir-validator-cli) - CLI validator for FHIR R4/R5 with verbatim profile-citation errors.
 * SQL
   * [PostgreSQL/fhirbase](https://www.health-samurai.io/fhirbase)
 * Go - ?
@@ -126,6 +127,8 @@ The following systems provide support for automated testing of FHIR clients and/
 
 
 ### HL7v2 to FHIR
+
+* [hl7-message-diff](https://github.com/plusultra-tools/hl7-message-diff) - HL7 v2 message diff utility for integration-engineer debugging during HL7v2-to-FHIR migrations.
 
 ### CDA(CCD) to FHIR
 
