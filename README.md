@@ -25,6 +25,7 @@ See official list of reference libraries
   * [Client SMART on FHIR](https://github.com/smart-on-fhir/client-js)
   * [FHIRKit create-react-app template](https://github.com/Vermonster/fhir-kit-create-react)
   * [FHIRPath implementation](https://github.com/hl7/fhirpath.js/)
+  * [Records CLI](https://github.com/medvertical/records-cli) - FHIR validation CLI for local files and CI gates, with JSON/JUnit output
 * XML
   * [Tools](https://www.hl7.org/fhir/fhir-3.0.1-XMLTools-0.01.zip)
 * Pascal
