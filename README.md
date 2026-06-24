@@ -127,6 +127,8 @@ The following systems provide support for automated testing of FHIR clients and/
 
 ### HL7v2 to FHIR
 
+* [MessageFoundry](https://messagefoundry.org) - Open-source, self-hosted healthcare integration engine in Python that maps HL7 v2 to FHIR resources in a code-first handler and delivers them to a FHIR REST server (R4B/R5/STU3).
+
 ### CDA(CCD) to FHIR
 
 ### Mapping
