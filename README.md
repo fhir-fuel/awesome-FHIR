@@ -46,7 +46,11 @@ See official list of reference libraries
 * Haskel - ?
 * Scala - ?
 * Kotlin
-  * [Android FHIR SDK](https://github.com/google/android-fhir) - a set of Kotlin libraries for building offline-capable, mobile-first healthcare applications using FHIR on Android.
+  * [Android FHIR SDK](https://github.com/ohs-foundation/android-fhir) - a set of Kotlin libraries for building offline-capable, mobile-first healthcare applications using FHIR on Android.
+  * [Kotlin FHIR](https://github.com/ohs-foundation/kotlin-fhir) - FHIR data model on Kotlin Multiplatform
+  * [Kotlin FHIRPath](https://github.com/ohs-foundation/kotlin-fhirpath) - FHIRPath Engine on Kotlin Multiplatform
+  * [Kotlin FHIR Data Capture](https://github.com/ohs-foundation/kotlin-fhir-data-capture) - Implementation of SDC on Kotlin Multiplatform
+  * [Kotlin FHIR Engine](https://github.com/ohs-foundation/kotlin-fhir-engine)
 * Lua
   * [XML ⟷ JSON converter](https://github.com/vadi2/fhir-formats)
 
