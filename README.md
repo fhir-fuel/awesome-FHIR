@@ -109,6 +109,7 @@ The following systems provide support for automated testing of FHIR clients and/
 * [http://touchstone.com/ Touchstone] testing FHIR Client or Servers using Test-Driven-Development (TDD)
 * [Wind.Tunnel](https://github.com/FirelyTeam/Wind.Tunnel) - Performance & stress testing for your FHIR server.
 * [stresty](https://github.com/Aidbox/stresty) - simple yaml based tests for REST (FHIR) servers
+* [BridgeLab](https://github.com/techemv-srl/BridgeLab) - open-source desktop workbench (Rust/Tauri) to edit, validate and test FHIR and HL7 v2 messages: HTTP client, FHIRPath, bundle visualizer, batch validation. Windows/macOS/Linux.
 
 ### Data Sets
 
