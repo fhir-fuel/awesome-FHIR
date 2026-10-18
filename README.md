@@ -25,6 +25,8 @@ See official list of reference libraries
   * [Client SMART on FHIR](https://github.com/smart-on-fhir/client-js)
   * [FHIRKit create-react-app template](https://github.com/Vermonster/fhir-kit-create-react)
   * [FHIRPath implementation](https://github.com/hl7/fhirpath.js/)
+  * [Ovok React SDK (`@ovok/core`)](https://www.npmjs.com/package/@ovok/core) - TypeScript SDK for building FHIR-based healthcare applications with Ovok.
+  * [Ovok React Native SDK (`@ovok/native`)](https://www.npmjs.com/package/@ovok/native) - React Native SDK for FHIR-backed healthcare apps with Bluetooth medical-device integration, HealthKit, and Health Connect.
 * XML
   * [Tools](https://www.hl7.org/fhir/fhir-3.0.1-XMLTools-0.01.zip)
 * Pascal
@@ -71,6 +73,7 @@ Here is a list of [Publicly  Available FHIR Servers](http://wiki.hl7.org/index.p
 ### Proprietary Servers
 
 * [Aidbox](https://www.health-samurai.io/aidbox) - Advanced FHIR backend built on top of fhirbase
+* [Ovok](https://www.ovok.com/) - FHIR backend for remote patient monitoring and connected-health applications, with APIs and SDKs for web and React Native.
 
 ### Terminology servers
 
