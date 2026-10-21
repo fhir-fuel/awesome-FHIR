@@ -115,6 +115,7 @@ The following systems provide support for automated testing of FHIR clients and/
 * [synthea](https://github.com/synthetichealth/synthea) - Synthetic Patient Population Simulator
 * [Dockerized synthea](https://github.com/smart-on-fhir/synthea) - Static contenerized version of Synthea
 * [FHIR Examples](https://www.hl7.org/fhir/downloads.html) - Examples coming with FHIR distribution
+* [hl7-v2-samples](https://github.com/AckHarbor/hl7-v2-samples) - Fictional FHIR R4 Patient alongside matching HL7 v2.5 ADT/ORM/ORU/ACK test messages (no PHI)
 
 ### Profiling for DB
 
