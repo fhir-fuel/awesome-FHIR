@@ -109,6 +109,7 @@ The following systems provide support for automated testing of FHIR clients and/
 * [http://touchstone.com/ Touchstone] testing FHIR Client or Servers using Test-Driven-Development (TDD)
 * [Wind.Tunnel](https://github.com/FirelyTeam/Wind.Tunnel) - Performance & stress testing for your FHIR server.
 * [stresty](https://github.com/Aidbox/stresty) - simple yaml based tests for REST (FHIR) servers
+* [Deedglass FHIR write-integrity scenarios](https://github.com/deedglass/deedglass/tree/main/corpus/fhir) - 17 FHIR R4 write cases on synthetic data where the server's success reply and what it stored can differ, each with its spec source (CC-BY-4.0).
 
 ### Data Sets
 
