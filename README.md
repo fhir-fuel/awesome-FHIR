@@ -71,6 +71,7 @@ Here is a list of [Publicly  Available FHIR Servers](http://wiki.hl7.org/index.p
 ### Proprietary Servers
 
 * [Aidbox](https://www.health-samurai.io/aidbox) - Advanced FHIR backend built on top of fhirbase
+* [Anpheros](https://developers.anpheros.com) - Managed FHIR R4 backend (EU-hosted) with SMART on FHIR / OAuth 2.1 patient consent, provenance on every write, an MCP server for AI apps and a free sandbox with synthetic patients
 
 ### Terminology servers
 
